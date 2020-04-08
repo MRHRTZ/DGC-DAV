@@ -1,0 +1,11 @@
+--2020-04-07 22:55:27--  http://www.figlet.org/fontdb_example.cgi?font=lean.flf
+Resolving www.figlet.org (www.figlet.org)... 188.226.162.120
+Menghubungi www.figlet.org (www.figlet.org)|188.226.162.120|:80... terhubung.
+Permintaan HTTP dikirimkan, menunggu balasan... 200 OK
+Besar: tidak dispesifikasikan [text/html]
+Simpan ke: `fontdb_example.cgi?font=lean.flf'
+
+     0K ...                                                    7,74M=0s
+
+2020-04-07 22:55:27 (7,74 MB/s) - `fontdb_example.cgi?font=lean.flf' disimpan [3267]
+
