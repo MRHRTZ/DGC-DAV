@@ -28,5 +28,5 @@ sh DGC-DAV.sh
 ### For Problem Or Bug Please Contact To
 - 085559038021
 
-### Donate Paypal To Have Spirit For Create New Tool :) 
+### Donate Paypal For Have Spirit To Create New Tool :) 
 - https://www.paypal.com/paypalme/my/profile
