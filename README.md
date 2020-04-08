@@ -1,6 +1,8 @@
 # DGC-DAV
 An Uploader For Website Which Vulnerable of Webdav
 
+![loc](https://github.com/MRHRTZ/DGC-DAV/blob/master/Sample-pict.png)
+
 # Intallation
 
 ## Termux :
