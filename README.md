@@ -8,7 +8,7 @@ An Uploader For Website Which Vulnerable of Webdav
 ## Termux :
 ```
 pkg update && upgrade -y 
-pkg install git python2 -y
+pkg install git figlet python2 -y
 git clone https://github.com/MRHRTZ/DGC-DAV.git
 cd DGC-DAV/
 chmod +x DGC-DAV.sh
@@ -18,7 +18,7 @@ chmod +x DGC-DAV.sh
 ## GNU Linux :
 ```
 sudo apt-get update && upgrade -y
-sudo apt-get install python2 git -y
+sudo apt-get install python2 figlet git -y
 git clone https://github.com/MRHRTZ/DGC-DAV.git
 cd DGC-DAV/
 chmod +x DGC-DAV.sh
