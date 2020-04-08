@@ -3,7 +3,7 @@ An Uploader For Website Which Vulnerable of Webdav
 
 ![loc](https://github.com/MRHRTZ/DGC-DAV/blob/master/Sample-pict.png)
 
-# Intallation
+# Installation
 
 ## Termux :
 ```
@@ -25,5 +25,8 @@ chmod +x DGC-DAV.sh
 sh DGC-DAV.sh
 ```
 
-### For Problem Or Bug contact to
+### For Problem Or Bug Please Contact To
 - 085559038021
+
+### Donate Paypal To Have Spirit For Create New Tool :) 
+- https://www.paypal.com/paypalme/my/profile
